@@ -1,0 +1,9 @@
+@startmindmap
+* Central Node
+** A Subnode
+** Another subnode
+-- Left side
+--- A Subnode
+--- Another subnode
+@endmindmap
+
